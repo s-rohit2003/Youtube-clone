@@ -1,1 +1,1 @@
-# Youtube-clone
+A YouTube clone is a video-sharing platform that replicates the core features and functionality of YouTube. Users can upload, view, and interact with videos, subscribe to channels, leave comments, and engage with content creators. It aims to provide a similar user experience to YouTube while potentially offering unique features or improvements.
